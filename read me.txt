@@ -1,1 +1,5 @@
 Please note that the page is not refreshed when a marker is clicked or when a user is interacting with any part of the map
+
+Video Demo: https://www.youtube.com/watch?v=QAgBDwnvH3I&feature=youtu.be
+
+Screenshots are also included in this repository 
